@@ -11,4 +11,5 @@ I Have completed the following:
 7. Comparisons
 8. Loops
 9. Lists:
+    -Completed:Find Max
     -Completed:Modulo Operator in Python
