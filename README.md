@@ -19,7 +19,7 @@ I Have completed the following:
    - filer list( a really hard list problem)
    - even teams
    - Alchemy Ingredients
-10. Lists
+10. Dictionary
    - 1: Dictionaries
    - 2: Duplicate Keys
    - 3: Accessing Dictionary Values
