@@ -19,3 +19,15 @@ I Have completed the following:
    - filer list( a really hard list problem)
    - even teams
    - Alchemy Ingredients
+10. Lists
+   - 1: Dictionaries
+   - 2: Duplicate Keys
+   - 3: Accessing Dictionary Values
+   - 4: Setting Dictionary Values
+   - 5: Updating Dictionary Values
+   - 6: Deleting Dictionary Values
+   - 7: Counting Practice
+   - 8: Iterating Over a Dictionary in Python
+   - 9: Ordered or Unordered?
+   - 10: Quest Status
+   - 11: Merge Dictionaries
