@@ -31,3 +31,18 @@ I Have completed the following:
    - 9: Ordered or Unordered?
    - 10: Quest Status
    - 11: Merge Dictionaries
+11.Sets
+    -1: Sets
+    =2: Sets Quiz
+    -3: Vowels
+    -4: Set Subtraction
+12.Errors
+    -1: Errors and Exceptions in Python
+    -2: Try/Except Review
+    -3: Raising Your Own Exceptions
+    -4: Raising Exceptions Review
+    -5: Different Types of Exceptions
+    -6: Raising Exceptions Review
+    -7: Raising Exceptions Review
+    -8: Raising Exceptions Review
+    -9. Purchase Bug
