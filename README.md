@@ -61,3 +61,13 @@ This is a repository where I store the Python lessons I learn every day.
     - 10: Nested Types
     - 11: Optional Values
     - 12: Fix Code With Type Hints
+14. **Practice**
+    - 1: Number Sum
+    - 2: Find Min
+    - 3: Remove Non-Integers
+    - 4: Factorial
+    - 5: Area Sum
+    - 6: List Division
+    - 7: Join Strings
+    - 8: Unit Tests
+    - 9.Fix a failing Test
