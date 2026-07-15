@@ -71,3 +71,8 @@ This is a repository where I store the Python lessons I learn every day.
     - 7: Join Strings
     - 8: Unit Tests
     - 9.Fix a failing Test
+15. **Quiz**
+    - 1: The Zen of Python
+    - 2: Why Python?
+    - 3: Python 2 vs. Python 3
+    - 4: Should You Use Python 2 or 3?
